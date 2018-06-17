@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="590e0a9f-6b18-45b2-b26e-3ca9b024f1b6" name="UCF101" url="http://ndss-04.cas.mcmaster.ca">
+        <fileTransfer host="ndss-04.cas.mcmaster.ca" port="22" rootFolder="/home/boy2" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
